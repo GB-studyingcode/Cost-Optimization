@@ -4,7 +4,7 @@ This my practice on operations research where I use Gurobi solver on Python envi
 
 ## Parameter
 - I is the set of Plant , $I = \{1, 2, 3\}$
-- K is the set of Warehouse, $K = \{1, 2\}$
+- K is the set of Warehouse, $K = \{4, 5\}$
 - J is the set of Customer, $J = \{6, 7, 8,9\}$
 
 ### Set up cost matrices
